@@ -94,7 +94,7 @@
     </choose>
   </macro>
   <macro name="title-zh">
-    <text variable="title" prefix="《" suffix="》"/>
+    <text variable="title"/>
   </macro>
   <macro name="container-booklike-en">
     <choose>
